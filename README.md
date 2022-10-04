@@ -100,7 +100,18 @@ Programação orientada a objetos: encapsulamento, classes, objetos, métodos, a
 <li>
  Veja mais: <a href="https://www.geeksforgeeks.org/association-composition-aggregation-java/">Associações entre classes</a>.
 </li>
+</ul></td>
+</tr>
 
+<tr>
+<td align="right">6</td>
+<td>04/10/2022</td>
+<td>Ter</td>
+<td><ul>
+
+<li>
+ <a href="praticas/java04">Quarta prática com Java</a>.
+</li>
 </ul></td>
 </tr>
 
@@ -127,6 +138,15 @@ Avaliação final (exame): 07/02/2023
 
 
 ## Bibliografia
+
+## OO / Java
+ - Ralph Morelli, Ralph Walde, Beryl Hoffman. [Java, Java, Java: Object-Oriented Problem Solving](https://runestone.academy/ns/books/published/javajavajava/book-1.html)  
+   - [2.4 Class Definition](https://runestone.academy/ns/books/published/javajavajava/sec-classdef.html)  
+     Seção sobre definição de classes, com exemplos e exercícios
+ - Alura. [Java e Orientação a Objetos](https://www.alura.com.br/apostila-java-orientacao-objetos)  
+   Apostila gratuita.
+
+## Geral
 
  - Robert Sebesta. Conceitos de Linguagens de Programação. Bookman, 2018. Disponível no [Portal de E-books](https://www.ufsm.br/orgaos-suplementares/biblioteca/e-books-2/) da UFSM.
  - Bruce A. Tate. [Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages](https://www.semanticscholar.org/paper/Seven-Languages-in-Seven-Weeks%3A-A-Pragmatic-Guide-Tate/8ab7286cc9e93b11bf783d4ba1d3ddc14630d202). 

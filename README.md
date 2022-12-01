@@ -52,7 +52,7 @@
 <li> 
 Visão geral dos paradigmas de programação: 
 <a href="https://docs.google.com/presentation/d/1prjJ7oIiRd6TK1zobAwmyyS1qj3zSBfxDNt6oyTt-Tg/edit?usp=sharing">conceitos</a> e
-<a href="https://docs.google.com/presentation/d/1u3tt2uiZ_dIroTTjtPWX4QILDFwV2VITF9R0Cz9TCyM/edit?usp=sharing">resultados do questionário</a>. 
+<a href="https://docs.google.com/presentation/d/1u3tt2uiZ_dIroTTjtPWX4QILDFwV2VITF9R0Cz9TCyM/edit?usp=sharing">resultados</a> do <a href="https://docs.google.com/forms/d/e/1FAIpQLSf02gNKeXoy2L-pckmx73-7UmYUFK-cr6vVA-TrOMqUtgQx8w/viewform?usp=sf_link">questionário.</a>
 </li>
 </ul></td>
 </tr>
@@ -116,11 +116,238 @@ Programação orientada a objetos: encapsulamento, classes, objetos, métodos, a
 </tr>
 
 
+<tr>
+<td align="right">7</td>
+<td>06/10/2022</td>
+<td>Qui</td>
+<td><ul>
+<li>
+Programação orientada a objetos: herança (<a href="https://docs.google.com/presentation/d/17A4kOOfRea8S4XgsnqXznBST27T6mbmj9HA2bUDkS-8/edit?usp=sharingg">slides</a>). 
+</li>
+<li>
+ <a href="praticas/java05">Quinta prática com Java</a>.
+</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">8</td>
+<td>11/10/2022</td>
+<td>Ter</td>
+<td><ul>
+<li><a href="https://quizizz.com/join?gc=28422371">Quiz</a> sobre POO em Java.
+</li>
+<li>
+ <a href="praticas/java06">Sexta prática com Java</a>.
+</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">9</td>
+<td>13/10/2022</td>
+<td>Qui</td>
+<td><ul>
+<li>
+ <a href="praticas/java07">Sétima prática com Java</a>.
+</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">10</td>
+<td>18/10/2022</td>
+<td>Ter</td>
+<td><ul>
+<li><a href="https://quizizz.com/join?gc=58906899">Quiz</a> sobre POO em Java.</li>
+<li>
+Programação orientada a objetos: polimorfismo (<a href="https://docs.google.com/presentation/d/1SMp1hstbdswQ5i1KQ4yO1tj4wDTVpKhQP_8eBnmNI8Q/edit?usp=sharing">slides</a>). 
+</li>
+</ul></td>
+</tr>
+  
+<tr>
+<td align="right">11</td>
+<td>20/10/2022</td>
+<td>Qui</td>
+<td><ul>
+<li>
+Classes abstratas e interfaces em Java (<a href="https://docs.google.com/presentation/d/1vWNhnXI12Q7KKJNNiy5TGAK0o46Q0tAw4LCgN2npJIo/edit?usp=sharing">slides</a>). 
+</li>
+<li>
+ <a href="praticas/java08">Missão (im)possível?</a>.
+</li>
+</ul></td>
+</tr>
+
+
+<tr>
+<td align="right">12</td>
+<td>25/10/2022</td>
+<td>Ter</td>
+<td><ul>
+<li><a href="https://pollev.com/free_text_polls/2ECFwkZnMMYPHtbYNSTmH/respond">Formulário</a> para coleta de sugestões de temas de trabalho.</li>
+<li>
+Formação dos grupos e definição do tema geral do trabalho de Programação Orientada a Objetos.
+</li>
+</ul></td>
+</tr>
+  
+<tr>
+<td align="right">13</td>
+<td>27/10/2022</td>
+<td>Qui</td>
+<td><ul>
+<li>
+<a href="https://forms.gle/V2j1oKK7PUiRcXCf9">Entrega</a> das especificações de cada trabalho.
+</li>
+<li>
+Desenvolvimento do trabalho, criação de <a href="https://classroom.github.com/a/H2hmTM4G">repositório</a> e primeiros commits.
+</li>
+</ul></td>
+</tr>
+
+
+<tr>
+<td align="right">14</td>
+<td>01/11/2022</td>
+<td>Ter</td>
+<td><ul>
+<li>Programação concorrente (<a href="https://docs.google.com/presentation/d/1R1E1_Tn5F6bELJZFZwYnX4_p5MDQk_bDk7wgpkHB9NI/edit?usp=sharing">slides</a>).</li>
+<li> 
+Concorrência em Java (<a href="https://docs.google.com/presentation/d/1SSLdhn4rjIoest2s1FSeAYJuwrjdMOWR_zkWRM_yajQ/edit?usp=sharing">slides</a>).</li>
+<li>
+ <a href="praticas/java09">Prática de programação concorrente com Java</a>.
+</li>
+
+
+<tr>
+<td align="right">15</td>
+<td>03/11/2022</td>
+<td>Qui</td>
+<td><ul>
+<li>Problemas de programação concorrente: sincronização (<a href="https://docs.google.com/presentation/d/16Vhcy8NZJ-se4xA4-b0udZx35OLdilZ4xPLnMXLQ8pw/edit?usp=sharing">slides</a>).
+</li>
+
+<li>
+ <a href="praticas/java10">Prática de programação concorrente com Java</a>.
+</li>
+<li>
+Veja também este texto sobre o brasileiro que criou a linguagem Elixir: https://community.revelo.com/de-mantenedor-rails-a-criador-da-linguagem-de-programacao-elixir/ (o que será que tem a ver com concorrência?)
+</li>
+
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">-</td>
+<td>08/11/2022</td>
+<td>Ter</td>
+<td>
+<ul>
+  <li>
+    <a href="https://www.ufsm.br/pro-reitorias/prpgp/jai/eventos/jai-2022/#programacao">Jornada Acadêmica Integrada da UFSM</a>
+  </li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td align="right">-</td>
+<td>10/11/2022</td>
+<td>Qui</td>
+<td>
+<ul>
+<li>
+<a href="https://www.ufsm.br/pro-reitorias/prpgp/jai/eventos/jai-2022/#programacao">Jornada Acadêmica Integrada da UFSM</a>
+</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td align="right">-</td>
+<td>15/11/2022</td>
+<td>Ter</td>
+<td>
+<ul>
+<li>
+Feriado
+</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td align="right">-</td>
+<td>17/11/2022</td>
+<td>Qui</td>
+<td>
+<ul>
+<li>
+SAINF: <a href="https://www.instagram.com/sainf_ufsm/">https://www.instagram.com/sainf_ufsm/</a>
+</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td align="right">16</td>
+<td>22/11/2022</td>
+<td>Ter</td>
+<td><ul>
+<li><a href="https://docs.google.com/presentation/d/1frPWgR_4Ywx4KCJgCcWWCuS5apiAw6KnjVMSWp9hCOY/edit?usp=sharing">Avaliação do projeto de orientação a objetos</a>.
+</li>
+</ul></td>
+</tr>
+
+
+<tr>
+<td align="right">17</td>
+<td>24/11/2022</td>
+<td>Qui</td>
+<td><ul>
+<li>Avaliação do projeto de orientação a objetos.</li>
+<li><a href="trabalhos/perso1">Produção individual personalizada - POO/Concorrente</a>.</li>
+</ul></td>
+</tr>
+
+
+<tr>
+<td align="right">18</td>
+<td>29/11/2022</td>
+<td>Ter</td>
+<td><ul>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2022b/main/praticas/java11/README.md#1">Prática: programação orientada a objetos e banco de dados</a>.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">19</td>
+<td>01/12/2022</td>
+<td>Qui</td>
+<td><ul>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2022b/main/praticas/java12/README.md#1">Prática: programação orientada a objetos e GUI com JavaFX</a>.</li>
+</ul></td>
+</tr>
+
+
 </tbody>
 </table>
 <p align="right">(<a href="#readme-top">início</a>)</p>
 
 ## Avaliações
+
+## Produção individual personalizada
+- [Programação orientada a objetos / concorrente](trabalhos/perso1)
+
+## Projeto de Programação Orientada a Objetos
+
+- Commit inicial: 27/10/2022
+- Primeira entrega: 07/11/2022
+- Segunda entrega: 14/11/2022
+
+## Como será a avaliação?
 
 A avaliação irá considerar a produção **individual** e **coletiva** a cada bimestre.
 
@@ -130,7 +357,7 @@ A produção **coletiva** (peso 5 em cada bimestre) consistirá em projetos de p
 
 As produções serão examinadas a cada bimestre, compondo 2 momentos de avaliação parcial, nas seguintes datas:
 
-- 1o Bimestre: 01 e 03/11/2022
+- 1o Bimestre: ~~01 e 03/11/2022~~ (a definir)
 - 2o Bimestre: 24 e 25/01/2023
 
 Avaliação final (exame): 07/02/2023
@@ -139,12 +366,7 @@ Avaliação final (exame): 07/02/2023
 
 ## Bibliografia
 
-## OO / Java
- - Ralph Morelli, Ralph Walde, Beryl Hoffman. [Java, Java, Java: Object-Oriented Problem Solving](https://runestone.academy/ns/books/published/javajavajava/book-1.html)  
-   - [2.4 Class Definition](https://runestone.academy/ns/books/published/javajavajava/sec-classdef.html)  
-     Seção sobre definição de classes, com exemplos e exercícios
- - Alura. [Java e Orientação a Objetos](https://www.alura.com.br/apostila-java-orientacao-objetos)  
-   Apostila gratuita.
+
 
 ## Geral
 
@@ -152,3 +374,11 @@ Avaliação final (exame): 07/02/2023
  - Bruce A. Tate. [Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages](https://www.semanticscholar.org/paper/Seven-Languages-in-Seven-Weeks%3A-A-Pragmatic-Guide-Tate/8ab7286cc9e93b11bf783d4ba1d3ddc14630d202). 
  - Outros materiais de referência indicados nas aulas.
 <p align="right">(<a href="#readme-top">início</a>)</p>
+
+## OO / Java
+ - Ralph Morelli, Ralph Walde, Beryl Hoffman. [Java, Java, Java: Object-Oriented Problem Solving](https://runestone.academy/ns/books/published/javajavajava/book-1.html)  
+   - [2.4 Class Definition](https://runestone.academy/ns/books/published/javajavajava/sec-classdef.html)  
+     Seção sobre definição de classes, com exemplos e exercícios
+ - Alura. [Java e Orientação a Objetos](https://www.alura.com.br/apostila-java-orientacao-objetos)  
+   Apostila gratuita.
+ - University of Helsinki. [Java Programming - A free online course on learning Java](https://java-programming.mooc.fi/)
